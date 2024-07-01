@@ -1,5 +1,5 @@
 .bg-navy {
-  background-color: #071952;
+  background-color: #0a0a24;
 }
 
 .logo {
@@ -8,7 +8,7 @@
 
 .jumbotron {
   padding-top: 2rem;
-  background-color: #088395;
+  background-color: #151b3d;
 }
 
 .pp {
@@ -16,9 +16,17 @@
 }
 
 #projects {
-  background-color: #088395;
+  background-color: #151b3d;
 }
 
 section {
   padding-top: 5rem;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+.myProjects {
+  color: #ffffff;
 }
